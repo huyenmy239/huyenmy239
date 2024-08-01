@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi, I'm Huyen My</h1>
 <h2 align="center">
-  <img src="https://komarev.com/ghpvc/?username=[huyemy239]&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
+  <img src="https://komarev.com/ghpvc/?username=huyenmy239&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
   Python Developer
   <a href="https://[your-portfolio-link]">
     <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
@@ -32,6 +32,6 @@ I am a passionate programmer, continually learning and pursuing my dream of beco
 <details>
   <summary><h2> <img align="center" src="./images/hi.gif" width="32"/> Stats</h2></summary>
   <div align="center">
-    ![](https://github-readme-streak-stats.herokuapp.com/?user=[huyenmy239]&theme=tokyonight&hide_border=false)
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=huyenmy239&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats">
   </div>
 </details>
