@@ -29,9 +29,15 @@ Here are some ideas to get you started:
 
 I am a passionate programmer, continually learning and pursuing my dream of becoming a *data engineer*. **Python** is my favorite language and the primary technology I use in all my projects.
 
-<details>
-  <summary><h2> <img align="center" src="./images/hi.gif" width="32"/> Stats</h2></summary>
+  <summary><h2>🗒️ Stats</h2></summary>
   <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=huyenmy239&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats">
   </div>
-</details>
+
+  <summary><h2>📪 Contact Me</h2></summary>
+  <p>
+    <i>You can reach out to me via</i>
+    <a href="mailto:[nguyenthihuyenmy239]">
+      📨
+    </a>
+  </p>
