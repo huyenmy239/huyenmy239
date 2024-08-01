@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **huyenmy239/huyenmy239** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center">Hi, I'm Huyen My</h1>
+<h2 align="center">
+  <img src="https://komarev.com/ghpvc/?username=[huyemy239]&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
+  Python Developer
+  <a href="https://[your-portfolio-link]">
+    <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
+  </a>
+</h2>
+<div align="center">
+ <img alt="GIF" src="./images/computer.gif" />
+</div>
+
+## <img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" /> About Me
+
+I am a passionate programmer, continually learning and pursuing my dream of becoming a *data engineer*. **Python** is my favorite language and the primary technology I use in all my projects.
+
+<details>
+  <summary><h2> <img align="center" src="./images/hi.gif" width="32"/> Stats</h2></summary>
+  <div align="center">
+    ![](https://github-readme-stats.vercel.app/api?username=[huyenmy239]&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+    ![](https://github-readme-streak-stats.herokuapp.com/?user=[huyenmy239]&theme=tokyonight&hide_border=false)<br/>
+    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=[huyenmy239]&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
+    ![](https://github-readme-activity-graph.vercel.app/graph?username=[huyenmy239]&theme=tokyo-night)
+  </div>
+</details>
