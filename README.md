@@ -32,8 +32,6 @@ I am a passionate programmer, continually learning and pursuing my dream of beco
 <details>
   <summary><h2> <img align="center" src="./images/hi.gif" width="32"/> Stats</h2></summary>
   <div align="center">
-    ![](https://github-readme-streak-stats.herokuapp.com/?user=[huyenmy239]&theme=tokyonight&hide_border=false)<br/>
-    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=[huyenmy239]&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
-    ![](https://github-readme-activity-graph.vercel.app/graph?username=[huyenmy239]&theme=tokyo-night)
+    ![](https://github-readme-streak-stats.herokuapp.com/?user=[huyenmy239]&theme=tokyonight&hide_border=false)
   </div>
 </details>
